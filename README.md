@@ -25,11 +25,11 @@ src/
 
 ## 📸 Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ## ▶️ How to Run
 
-bash
+
 git clone https://github.com/luckaty/message-card-demo.git
 cd message-card-demo
 npm install
