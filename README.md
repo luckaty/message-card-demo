@@ -25,7 +25,7 @@ src/
 
 ## 📸 Preview
 
-<img src="screenshot.png" alt="Demo screenshot" width="500"/>
+![App Screenshot](screenshot.png)
 
 ## ▶️ How to Run
 
